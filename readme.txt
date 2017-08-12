@@ -3,5 +3,4 @@ server:
 
       createing a new branch is quick
        
-       this is test
-       when master edit
+      createing a new branch is quick & simple
